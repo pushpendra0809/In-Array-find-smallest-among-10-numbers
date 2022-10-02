@@ -1,0 +1,1 @@
+# In-Array-find-smallest-among-10-numbers
